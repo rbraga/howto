@@ -1,0 +1,16 @@
+howto
+=====
+
+Texto para realizar commit...
+
+
+:-D
+
+Hotfix!!!
+
+<<<<<<< HEAD
+Alteração de Maria.
+=======
+
+AlteraÃ§Ã£o de joÃ£o.
+>>>>>>> 691206c40f87679d439be1abcc0669fb032e73b4
