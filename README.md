@@ -8,4 +8,4 @@ Texto para realizar commit...
 
 Hotfix!!!
 
-Alteração de Maria.
+Alteração na funcionalidade.
