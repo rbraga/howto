@@ -56,6 +56,7 @@ h6, .h6 {
   text-decoration: none;
 }
 
+/* Chamado 003 */
 /* Active state gets a caret at the bottom */
 .blog-nav .active {
   color: #fff;
